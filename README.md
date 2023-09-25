@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @AmeenZaita
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently studying computer science @ UIC
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm a software developer intrigued by developments in Ai. I enjoy dedicating my time to craft useful applications such as an inventory management system. Some technologies include c/c++, java and python. In my last year of highschool I was awarded a scholarhsip for being in the top 5% of students. I am currently studying computer science at the University of Illinois Chicago.
 
 <!---
 AmeenZaita/AmeenZaita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
