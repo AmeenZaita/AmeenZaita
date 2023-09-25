@@ -1,4 +1,4 @@
-I'm a software developer intrigued by developments in Ai. I enjoy dedicating my time to craft useful applications such as an inventory management system. Some technologies include c/c++, java and python. In my last year of highschool I was awarded a scholarhsip for being in the top 5% of students. I am cuntinuing my educational journey at University of Illinois at Chicago.
+I'm a software developer intrigued by developments in Ai. I enjoy dedicating my time to craft useful applications such as an inventory management system. Some technologies include c/c++, java and python. In my last year of highschool I was awarded a scholarhsip for being in the top 5% of students. I am continuing my educational journey at University of Illinois at Chicago.
 
 <!---
 AmeenZaita/AmeenZaita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
