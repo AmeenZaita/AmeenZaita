@@ -1,4 +1,5 @@
-I'm a software developer intrigued by developments in Ai. I enjoy dedicating my time to craft useful applications such as an inventory management system. Some technologies include c/c++, java and python. In my last year of highschool I was awarded a scholarhsip for being in the top 5% of students. I am continuing my educational journey at University of Illinois at Chicago.
+I am a computer science student specializing in cybersecurity at the University of Illinois at Chicago. I enjoy dedicating my time to working through capture the flag competitions. Some programming languages include C/C++, Java, and Python. I am also familiar with a few security tools such as Gobuster and Hydra. In my last year of high school, I was awarded a scholarship for being in the top 5% of students. I will continue to improve my skills and work toward many more certifications in the future.
+
 
 <!---
 AmeenZaita/AmeenZaita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
